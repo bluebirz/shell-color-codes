@@ -1,3 +1,6 @@
+import re
+
+
 class BashColors:
     RESET = "\033[0m"
 
@@ -135,3 +138,6 @@ class BashColors:
     LIGHT_PURPLE_STRIKE = "\033[9;95m"
     LIGHT_CYAN_STRIKE = "\033[9;96m"
     LIGHT_WHITE_STRIKE = "\033[9;97m"
+
+    def remove_bash_color_code(text: str) -> str:
+        return re.sub(r"\033\[[\d;]+m", "", text)
