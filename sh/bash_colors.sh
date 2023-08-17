@@ -136,5 +136,5 @@ LIGHT_CYAN_STRIKE="\033[9;96m"
 LIGHT_WHITE_STRIKE="\033[9;97m"
 
 function remove_bash_color_codes(){
-    echo "$1" | sed -r 's/[^[:print:]]\[[0-9;]+m//g'
+    result=$(echo "$1" | sed -r 's/[^[:print:]]\[[0-9;]+m//g')
 }
