@@ -8,9 +8,9 @@
 
 ## blog related
 
-- [EN]
-- [TH]
-- [Medium]
+- [EN] [Paint Terminal with Bash color codes](https://www.bluebirz.net/en/bash-color-codes/)
+- [TH] [แต้มสีให้ Terminal ด้วย Bash color codes](https://www.bluebirz.net/th/bash-color-codes-th/)
+- [Medium] [Paint Terminal with Bash color codes](https://medium.com/@bluebirz/paint-terminal-with-bash-color-codes-4d57a57e634c)
 
 ## How to run
 
