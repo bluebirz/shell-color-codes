@@ -1,16 +1,16 @@
-# Bash color codes
+# Shell color codes
 
 ## about
 
-- This repo contains sample Bash color codes for Python and Bash script.
-- It describes how to display texts in colors in Terminal (Bash).
+- This repo contains sample Shell color codes for Python and Shell script.
+- It describes how to display texts in colors in Terminal (Shell).
 - This has been written to support blogs below.
 
 ## blog related
 
-- [EN] [Paint Terminal with Bash color codes](https://www.bluebirz.net/en/bash-color-codes/)
-- [TH] [แต้มสีให้ Terminal ด้วย Bash color codes](https://www.bluebirz.net/th/bash-color-codes-th/)
-- [Medium] [Paint Terminal with Bash color codes](https://medium.com/@bluebirz/paint-terminal-with-bash-color-codes-4d57a57e634c)
+- [EN] [Paint Terminal with Shell color codes](https://www.bluebirz.net/en/Shell-color-codes/)
+- [TH] [แต้มสีให้ Terminal ด้วย Shell color codes](https://www.bluebirz.net/th/Shell-color-codes-th/)
+- [Medium] [Paint Terminal with Shell color codes](https://medium.com/@bluebirz/paint-terminal-with-bash-color-codes-4d57a57e634c)
 
 ## How to run
 

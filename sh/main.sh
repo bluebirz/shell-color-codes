@@ -1,4 +1,4 @@
-source bash_colors.sh
+source shell_colors.sh
 
 echo "=========== with colors ==========="
 text=$(cat <<EOF
@@ -14,5 +14,5 @@ EOF
 echo "$text"
 
 echo "========== without colors =========="
-remove_bash_color_codes "$text"
+remove_shell_color_codes "$text"
 echo "$result"
